@@ -66,9 +66,5 @@
     
 }
 
-- (void)test_willCauseError
-{
-    XCTAssertTrue(false, @"The integration will fail");
-}
 
 @end
